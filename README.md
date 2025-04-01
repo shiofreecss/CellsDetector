@@ -4,13 +4,13 @@ Cells Detector is a Python-based application designed to detect and process plan
 
 ## Medium Post:
 
-[Detecting Green Cells in Grid Squares: A Step-by-Step Guide with OpenCV and Python (Part 1)](https://medium.com/@katanuki/analyzing-and-processing-grid-images-with-opencv-part-1-d5c42ab0703c)
+[Detecting Green Cells in Grid Squares: A Step-by-Step Guide with OpenCV and Python (Part 1)](https://medium.com/@shiodev/analyzing-and-processing-grid-images-with-opencv-part-1-d5c42ab0703c)
 
-[Detecting Green Cells in Grid Squares: A Step-by-Step Guide with OpenCV and Python (Part 2)](https://medium.com/@katanuki/analyzing-and-processing-grid-images-with-opencv-part-2-31408b5671a6)
+[Detecting Green Cells in Grid Squares: A Step-by-Step Guide with OpenCV and Python (Part 2)](https://medium.com/@shiodev/analyzing-and-processing-grid-images-with-opencv-part-2-31408b5671a6)
 
-[Detecting Green Cells in Grid Squares: A Step-by-Step Guide with OpenCV and Python (Part 3)](https://medium.com/@katanuki/detecting-green-cells-in-grid-squares-a-step-by-step-guide-with-opencv-and-python-part-3-9a22979846d4)
+[Detecting Green Cells in Grid Squares: A Step-by-Step Guide with OpenCV and Python (Part 3)](https://medium.com/@shiodev/detecting-green-cells-in-grid-squares-a-step-by-step-guide-with-opencv-and-python-part-3-9a22979846d4)
 
-[Detecting Green Cells in Grid Squares: A Step-by-Step Guide with OpenCV and Python (Part 4)](https://medium.com/@katanuki/detecting-green-cells-in-grid-squares-a-step-by-step-guide-with-opencv-and-python-end-c7c75714219f)
+[Detecting Green Cells in Grid Squares: A Step-by-Step Guide with OpenCV and Python (Part 4)](https://medium.com/@shiodev/detecting-green-cells-in-grid-squares-a-step-by-step-guide-with-opencv-and-python-end-c7c75714219f)
 
 ## Table of Contents
 
@@ -40,7 +40,7 @@ Ensure you have Python installed on your system. This project requires Python 3.
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/katanukisatoshi/cells_detector.git
+git clone https://github.com/shiofreecss/cells_detector.git
 cd cells_detector
 ```
 
